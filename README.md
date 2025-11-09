@@ -2,7 +2,7 @@
 
 🚀 **Demo**: [https://ricardocolima.github.io/landingcodemaster/](https://ricardocolima.github.io/landingcodemaster/)
 
-Una landing page moderna y profesional construida con Vue 3, TypeScript y Tailwind CSS. Diseñada para mostrar servicios de desarrollo web con una interfaz elegante y funcionalidades avanzadas.
+Una landing page moderna y profesional construida con Vue 3, JS y Tailwind CSS. Diseñada para mostrar servicios de desarrollo web con una interfaz elegante y funcionalidades avanzadas.
 
 ## ✨ Características Técnicas Destacadas
 
