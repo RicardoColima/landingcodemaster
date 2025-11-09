@@ -36,7 +36,7 @@ Una landing page moderna y profesional construida con Vue 3, JS y Tailwind CSS. 
 
 ### **Frontend Core**
 - **Vue 3** - Framework progresivo con Composition API
-- **TypeScript** - Superset de JavaScript con tipado estático
+- **JS** o
 - **Vite** - Build tool ultrarrápido con HMR
 
 ### **Styling & UI**
